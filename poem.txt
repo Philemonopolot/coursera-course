@@ -1,4 +1,4 @@
-The rainbow and the Unicorn
+The rainbow and the Unicorn and the pony
 
 red 
 blu
@@ -10,3 +10,4 @@ Blue
 yellow
 these arew the colours of the rainbow
 and the Unicorn
+pony
