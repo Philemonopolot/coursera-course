@@ -4,5 +4,6 @@ blu
 pink
 orange
 Green
+Blue
 yellow
 these arew the colours of the rainbow
